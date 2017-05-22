@@ -1,0 +1,17 @@
+		td{
+			width: 100px;
+			height: 100px;
+		}
+		table {
+			border: 5px solid black ;
+		}
+		.s1 {
+			color: #886bff
+		}
+		.s2 {
+			color: #26d11d
+		}
+
+		#id1 {
+			font-size: 15px
+		}
